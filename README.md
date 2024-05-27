@@ -44,8 +44,8 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Métodos Numéricos, repositorio entregable y borrador***
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <a href="https://github.com/yuebaix/pangu">
-    <img align="center" src="https://github.com/Jorge11Romero/Metodos-Numericos.git&theme=highcontrast&repo=Problemario" />
+  <a href="[https://github.com/yuebaix/pangu](https://github.com/Jorge11Romero/MetodosNumericos)">
+    <img align="center" src="[https://github.com/Jorge11Romero/Metodos-Numericos.git](https://github.com/Jorge11Romero/MetodosNumericos)&theme=highcontrast&repo=Problemario Tema5-6" />
   </a>
   
   <a href="https://github.com/Jorge11Romero/M-todos-Num-ricos/blob/main/README.md">
