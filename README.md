@@ -45,7 +45,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <a href="https://github.com/yuebaix/pangu">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=pangu" />
+    <img align="center" src="https://github.com/Jorge11Romero/Metodos-Numericos.git&theme=highcontrast&repo=Problemario" />
   </a>
   
   <a href="https://github.com/Jorge11Romero/M-todos-Num-ricos/blob/main/README.md">
